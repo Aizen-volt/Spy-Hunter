@@ -1,0 +1,6 @@
+﻿  DrawFunctions.cpp
+C:\Users\mkasz\Desktop\Code\C(++)\Spy Hunter\Spy Hunter\DrawFunctions.cpp(92,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mkasz\Desktop\Code\C(++)\Spy Hunter\Spy Hunter\DrawFunctions.cpp(93,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mkasz\Desktop\Code\C(++)\Spy Hunter\Spy Hunter\DrawFunctions.cpp(94,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mkasz\Desktop\Code\C(++)\Spy Hunter\Spy Hunter\DrawFunctions.cpp(95,72): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Spy Hunter.vcxproj -> C:\Users\mkasz\Desktop\Code\C(++)\Spy Hunter\Debug\Spy Hunter.exe

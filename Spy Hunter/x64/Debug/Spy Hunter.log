@@ -1,0 +1,30 @@
+﻿main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_GetError przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_RWFromFile przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_MapRGB przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_CreateRGBSurface przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_FreeSurface przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_LoadBMP_RW przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_SetColorKey przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_FillRect przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_UpperBlit przywołany w funkcji "void __cdecl DrawString(struct SDL_Surface *,int,int,char const *,struct SDL_Surface *)" (?DrawString@@YAXPEAUSDL_Surface@@HHPEBD0@Z)
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_SetWindowTitle przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_DestroyWindow przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_ShowCursor przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_PollEvent przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_SetHint przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_CreateWindowAndRenderer przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_CreateTexture przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_UpdateTexture przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_RenderSetLogicalSize przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_SetRenderDrawColor przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_RenderCopy przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_RenderPresent przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_DestroyTexture przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_DestroyRenderer przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_GetTicks przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_Init przywołany w funkcji SDL_main
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny SDL_Quit przywołany w funkcji SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: nierozpoznany symbol zewnętrzny main przywołany w funkcji "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\mkasz\Desktop\Code\C(++)\Spy Hunter\Spy Hunter\..\SDL2-2.0.10\lib\x86\SDL2.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+C:\Users\mkasz\Desktop\Code\C(++)\Spy Hunter\Spy Hunter\..\SDL2-2.0.10\lib\x86\SDL2main.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+C:\Users\mkasz\Desktop\Code\C(++)\Spy Hunter\x64\Debug\Spy Hunter.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 27
