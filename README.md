@@ -11,7 +11,7 @@ The assignment is accompanied by a sample project (template) in which the follow
 - displaying the graphics in BMP format;
 - drawing a pixel, line, rectangle;
 - text display.
-The template uses “graphics” library SDL2 (2.0.7). It is included in the startup project
+#### The template uses “graphics” library SDL2 (2.0.7). It is included in the startup project
 and does not need to be obtained separately.
 # Program controls
 The key controls should utilized in a specified way:
