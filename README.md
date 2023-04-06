@@ -15,15 +15,14 @@ The template uses “graphics” library SDL2 (2.0.7). It is included in the sta
 and does not need to be obtained separately.
 # Program controls
 The key controls should utilized in a specified way:
-• arrows: moving the player in given direction;
-• esc: quit the program;
-• n: start a new game;
-• s: save the game state;
-• l: load the game state;
-1
-• p: pause/continue;
-• space: shooting;
-• f: finish the game
+- arrows: moving the player in given direction;
+- esc: quit the program;
+- n: start a new game;
+- s: save the game state;
+- l: load the game state;
+- p: pause/continue;
+- space: shooting;
+- f: finish the game
 # Requirements
 - (a) The game board has to be presented in a aestethic and ergonomic way. The upper space of the window
 should contain the name, surname and index number of the author.
