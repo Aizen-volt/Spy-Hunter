@@ -3,6 +3,7 @@ In this project student is expected to write desktop application of an Atari gam
 object of the game is to drive down roads and destroy other (enemy) vehicles, using the weapons that are
 available for the player. The project is based on the Atari 2600 version of the game. More detailed information
 is available on the [Wikipedia](https://en.wikipedia.org/wiki/Spy_Hunter). The example of the gameplay is available on [Youtube](https://www.youtube.com/watch?v=DLyJS8mlCLY).
+#
 ![Exemplary gameplay](exemplary-gameplay.png)
 # General guidelines of the project
 The assignment is accompanied by a sample project (template) in which the following functionality is implemented:
