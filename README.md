@@ -18,7 +18,7 @@ Project uses [SDL2 (2.0.7)](https://github.com/libsdl-org/SDL) library for both 
 - When the number of available cars is zero, game is over
 - Power-ups - weapons appear on the road and when collected they temporarily (limited ammo) change the way shooting works (greater range, increased damage etc.)
 - Storing and displaying best results list. Menu allows to display list sorted by points or by time
-## Screenshot
+## Gameplay
 
 <p align="center">
   <img src="exemplary-gameplay.png" alt="Exemplary gameplay" />
